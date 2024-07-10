@@ -24,10 +24,11 @@ Enucuzpin, XML formatı olarak Google Merchant Feed RSS 2.0'ı desteklemektedir.
 | g:brand          | Ürünün markası                                           | Zorunlu           |
 
 
-[Google Merchat Feed RSS 2.0 Dökümanı için tıklayın.](https://support.google.com/merchants/answer/160589?hl=tr)
+<a href="https://support.google.com/merchants/answer/160589?hl=tr" target="_blank">Google Merchat Feed RSS 2.0 Dökümanı için tıklayın</a>
+
 <br>
 
-Javascript kod örneğini [./index.js](https://github.com/En-Ucuz-Pin/store-guide/blob/main/index.js) üzerinden görebilirsiniz.
+Javascript kod örneğini <a href="https://github.com/En-Ucuz-Pin/store-guide/blob/main/index.js" target="_blank">./index.js</a> üzerinden görebilirsiniz.
 Kodu çalıştırmak için: 
 
 ```cmd
@@ -38,5 +39,5 @@ node index.js
 
 -------------------------------
 Daha Fazla Bilgi İçin:
-- [ENUCUZPİN](https://www.enucuzpin.com)
-- [ENUCUZPİN Mağaza Kayıt](https://www.enucuzpin.com)
+- <a href="https://www.enucuzpin.com" target="_blank">ENUCUZPİN</a>
+- <a href="https://www.enucuzpin.com/magaza-kayit" target="_blank">Mağazanızı ENUCUZPİN'e Taşıyın</a>
