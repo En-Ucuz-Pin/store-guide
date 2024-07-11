@@ -19,6 +19,7 @@ Enucuzpin, XML formatı olarak Google Merchant Feed RSS 2.0'ı desteklemektedir.
 | g:condition      | Ürünün durumu (yeni, kullanılmış, yenilenmiş vb.)        | Zorunlu           |
 | g:availability   | Ürünün stok durumu                                       | Zorunlu           |
 | g:price          | Ürünün fiyatı                                            | Zorunlu           |
+| g:sale_price     | Ürünün mevcut satış fiyatı                               | Zorunlu           |
 | g:shipping       | Kargo bilgileri (ülke, hizmet türü, fiyat)               | İsteğe Bağlı      |
 | g:gtin           | Ürünün küresel ticari ürün numarası                      | İsteğe Bağlı      |
 | g:brand          | Ürünün markası                                           | Zorunlu           |
